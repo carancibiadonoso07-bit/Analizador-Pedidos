@@ -1,6 +1,20 @@
 # Analizador-Pedidos
 Este script en Python procesa archivos de pedidos y productos para evaluar qué tan bien está funcionando la logística de entregas.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("Pregunta 1")
 def lista_pedidos(archivo_pedidos):
     pedidos = []
